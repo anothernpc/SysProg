@@ -124,10 +124,12 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="AboutDialog.cpp" />
+    <ClCompile Include="EditWidget.cpp" />
     <ClCompile Include="try3-sp.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="AboutDialogDefinitions.h" />
+    <ClInclude Include="EditWidgetDefinitions.h" />
     <ClInclude Include="resource.h" />
     <ClInclude Include="TextEditorDefinitions.h" />
   </ItemGroup>
